@@ -1,17 +1,117 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
-    <head>
-        <title>Home</title>
-        <link rel ="stylesheet" href="../css/styles.css">
-    </head>
-    <body>
-        <header id="header">
-            <img id="logoImg" src="../images/logo.png" alt="logo" height="50px" width="100px">
-            <h1 id="headerText">OMSD website!</h1>
-            <nav>Navigation</nav>
-            
-        </header>
-        <main>Main Content</main>
-        <footer>Contact Info</footer>
-    </body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Home</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Gotu&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/1e98cf60ea.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  </head>
+  <body>
+    <!-- preloader -->
+    <!-- <div class="preloader">
+            <img src="#" alt="preloader">
+        </div> -->
+    <!-- end of preloader -->
+    <!-- header -->
+    <header class="header" id="header">
+      <!-- nav -->
+      <nav class="nav">
+        <div class="nav-center">
+          <div class="nav-header">
+            <img class="logo" src="../images/logo.png" />
+            <button class="nav-toggle">
+              <i class="fas fa-bars"></i>
+            </button>
+          </div>
+          <!-- links -->
+          <ul class="links">
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./shop.html">Shop</a></li>
+            <li><a href="./story.html">Our Story</a></li>
+            <li><a href="./contact.html">Contact</a></li>
+          </ul>
+          <ul class="social-icons">
+            <li class="shopping-icon">
+              <span class="shoppingBasket-itemsCount"> </span>
+              <div>
+                <i class="fas fa-shopping-basket"></i>
+              </div>
+            </li>
+            </li>
+            <li>
+              <a href="#">
+                <i class="fab fa-facebook"></i>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <i class="fab fa-linkedin"></i>
+              </a>
+            </li>
+          </ul>
+          <!-- end of links -->
+        </div>
+      </nav>
+      <!-- end of nav -->
+    </header>
+    <!-- end of header -->
+    <!-- main content -->
+    <section class="section">
+      <video class="video-container" autoplay muted loop>
+        <source src="../videos/mainVideo.mp4" type="video/mp4" />
+      </video>
+      <div class="section-text">
+        <h1>Be amazed by the latest products</h1>
+      </div>
+      <button class="switch-btn">
+        <span>play</span>
+        <span>pause</span>
+        <span class="switch"></span>
+      </button>
+    </section>
+    <!-- end of main content -->
+<!-- shopping basket section -->
+<div class="shoppingBasket-overlay">
+  <div class="shoppingBasket">
+    <span class="close-shoppingBasket">
+      <i class="fas fa-window-close"></i>
+    </span>
+    <h2>Your Shopping Basket</h2>
+    <div class="shoppingBasket-content">
+      <!-- shopping basket single item -->
+      <!-- end of shopping basket single item -->
+    </div>
+    <div class="shoppingBasket-footer">
+      <h3>
+        Total: <span class="price">£</span>
+        <span class="shoppingBasket-total price">0</span>
+      </h3>
+      <button class="clear-shoppingBasket buttons">clear</button>
+    </div>
+  </div>
+
+</div>
+</div>
+<!-- end of shopping basket section -->
+    <footer class="footer">
+      <div class="footer-center">
+        <img class="footer-logo" src="../images/logo.png" alt="logo" />
+        <div class="footer-copyright"><p>&copy; OMSD 2020</p></div>
+      </div>
+    </footer>
+  </body>
+  <script src="../javascript/script.js"></script>
 </html>

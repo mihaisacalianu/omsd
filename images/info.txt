@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: SixCaps
+font link: https://www.fontsquirrel.com/fonts/six-caps
+font author: Vernon Adams
+font author site: https://www.behance.net/vernonadams
+
+
+icon designer: Denora Daujatas
+icon designer link: /Denorad
+        
+{"bg":"transparent","icon-gradient-0":"#085B20","icon-gradient-1":"#41E296","font":"#000000","slogan":"#141414"}
+      

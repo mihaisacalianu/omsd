@@ -1,0 +1,270 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Coffe Soap",
+        "type": "soap",
+        "price": 5.99,
+        "image": {
+          "fields": { "file": { "url": "../images/soap1.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "Lemon Soap",
+        "type": "soap",
+        "price": 4.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/soap2.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "Lemongrass soap",
+        "type": "soap",
+        "price": 4.0,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/soap3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "Mango Soap",
+        "type": "soap",
+        "price": 5.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/soap4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "Avocado Soap",
+        "type": "soap",
+        "price": 5.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/soap5.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "Grapes Soap",
+        "type": "soap",
+        "price": 4.0,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/soap6.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Hand Lotion",
+        "type": "lotion",
+        "price": 7.5,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/handLotion.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "Face Lotion",
+        "type": "lotion",
+        "price": 8.5,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/faceLotion.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Body Lotion",
+        "type": "lotion",
+        "price": 10.5,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/bodyLotion.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "Evening Lotion",
+        "type": "lotion",
+        "price": 6.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/lotions.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "Face Cream",
+        "type": "cream",
+        "price": 4.55,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/faceCream.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "Hand Cream",
+        "type": "cream",
+        "price": 3.5,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/handCream.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "13"
+      },
+      "fields": {
+        "title": "Face Scrub",
+        "type": "scrub",
+        "price": 8.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/faceScrub.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "14"
+      },
+      "fields": {
+        "title": "Body Scrub",
+        "type": "scrub",
+        "price": 10.55,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/bodyScrub.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "15"
+      },
+      "fields": {
+        "title": "Body Scrub",
+        "type": "scrub",
+        "price": 12.55,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/bodyScrub.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "16"
+      },
+      "fields": {
+        "title": "Face Cream",
+        "type": "cream",
+        "price": 12.55,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../images/faceCream.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
